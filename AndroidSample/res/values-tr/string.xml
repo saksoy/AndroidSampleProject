@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Örnek Proje</string>
+    <string name="action_menu_about">Hakkında</string>
+    
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer_title_cloud">Bulut</string>
+    <string name="drawer_title_info">Bilgi</string>
+    <string name="drawer_title_settings">Ayarlar</string>
+
+    <string-array name="drawer_titles">
+        <item>@string/drawer_title_cloud</item>
+        <item>@string/drawer_title_info</item>
+        <item>@string/drawer_title_settings</item>
+    </string-array>
+    <string-array name="drawer_subtitles">
+        <item>@string/drawer_title_cloud</item>
+        <item>@string/drawer_title_info</item>
+        <item>@string/drawer_title_settings</item>
+    </string-array>
+</resources>

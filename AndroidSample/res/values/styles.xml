@@ -1,0 +1,17 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+    <!-- Header drawer style -->
+    <style name="header_drawer">
+        <item name="android:layout_width">@dimen/header_drawer_width</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_gravity">start</item>
+        <item name="android:background">@color/header_drawer_bg</item>
+        <item name="android:padding">@dimen/header_drawer_padding</item>
+        <item name="android:divider">@android:color/transparent</item>
+        <item name="android:dividerHeight">@dimen/header_drawer_diveder_height</item>
+    </style>
+    
+    
+
+</resources>
