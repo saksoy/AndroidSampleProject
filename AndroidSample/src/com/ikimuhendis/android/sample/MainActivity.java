@@ -40,6 +40,7 @@ public class MainActivity extends SherlockFragmentActivity {
 
 	@Override
 	protected void onSaveInstanceState(Bundle outState) {
+		//Test
 		super.onSaveInstanceState(outState);
 		outState.putInt(BUNDLE_SELECTEDFRAGMENT, mSelectedFragment);
 	}
